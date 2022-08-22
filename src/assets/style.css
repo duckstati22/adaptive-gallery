@@ -1,0 +1,8 @@
+body {
+  max-width: 1358px;
+  margin: 0 auto;
+  background-color: #E5E5E5;
+}
+.scroll-prevent {
+  overflow: hidden;
+}
